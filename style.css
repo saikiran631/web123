@@ -1,0 +1,32 @@
+body{
+  background-color: #40bad5;
+text-align: center;
+margin: 0;
+position: relative;
+padding-top:150px;
+font-family: 'Dancing Script', cursive;
+}
+h1{
+  margin: 0;
+ font-size: 4.625rem;
+}
+p{
+font-family: 'Pacifico', cursive;
+}
+.cloudtop{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.cloudb{
+  position: absolute;
+  left: 300px;
+  bottom: auto;
+}
+.profilepic{
+  height: 200px;
+  width: auto;
+}
+.skill-row{
+  font-family: sans-serif;
+}
